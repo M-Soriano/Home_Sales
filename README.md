@@ -34,15 +34,19 @@ Home_Sales_colab - jupyter notebook demonstrating knowledge of SparkSQL.
 -   SparkSQL examples:
 
     -  creating temporary views
+
     ![alt text](readme_resources/1.png)
     
     - Partitioning the data
+
     ![alt text](readme_resources/2.png)
 
-    - Cache temporary table
+    - Cache temporary 
+    
     ![alt text](readme_resources/3.png)
 
     - Uncache temporary table
+    
     ![alt text](readme_resources/4.png)
 
 
